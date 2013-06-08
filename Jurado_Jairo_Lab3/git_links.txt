@@ -1,6 +1,10 @@
 Master page GitHub linkhttps://github.com/JJairo92/WDFgh-pages GitHub linkhttps://github.com/JJairo92/WDF/tree/gh-pages
 
 
+lab3.doc GitHub Link
+http://jjairo92.github.io/WDF/Jurado_Jairo_Lab3/lab3.doc
+
+
 image_optimization.html GitHub Link
 http://jjairo92.github.io/WDF/Jurado_Jairo_Lab3/image_optimization.html
 
@@ -19,3 +23,19 @@ http://jjairo92.github.io/WDF/Jurado_Jairo_Lab3/images/adgimage.gif
 
 video.html GitHub Link
 http://jjairo92.github.io/WDF/Jurado_Jairo_Lab3/video.html
+
+
+video MP4 Link
+http://jjairo92.github.io/WDF/Jurado_Jairo_Lab3/videos/video.mp4
+
+
+video MOV Link
+http://jjairo92.github.io/WDF/Jurado_Jairo_Lab3/videos/video.mov
+
+
+video OGG Link
+http://jjairo92.github.io/WDF/Jurado_Jairo_Lab3/videos/video.ogg
+
+
+video WEBM Link
+http://jjairo92.github.io/WDF/Jurado_Jairo_Lab3/videos/video.webm
