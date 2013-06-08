@@ -1,0 +1,21 @@
+Master page GitHub linkhttps://github.com/JJairo92/WDFgh-pages GitHub linkhttps://github.com/JJairo92/WDF/tree/gh-pages
+
+
+image_optimization.html GitHub Link
+http://jjairo92.github.io/WDF/Jurado_Jairo_Lab3/image_optimization.html
+
+
+image_optimization JPEG Image GitHub Link
+http://jjairo92.github.io/WDF/Jurado_Jairo_Lab3/images/adgimage.jpg
+
+
+image_optimization PNG-24 Image GitHub Link
+http://jjairo92.github.io/WDF/Jurado_Jairo_Lab3/images/adgimage.png
+
+
+image_optimization GIF Image GitHub Link
+http://jjairo92.github.io/WDF/Jurado_Jairo_Lab3/images/adgimage.gif
+
+
+video.html GitHub Link
+http://jjairo92.github.io/WDF/Jurado_Jairo_Lab3/video.html
