@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Quick Game Survey</title>
+	</head>
+
+	<body>
+		<header>
+			<h1>Quick Game Survey</h1>
+		</header>
+
+		<section>
+			<h2>Personal Information</h2>
+
+				<form action="mailto:JJairo92@fullsail.edu">
+					First Name:<br />
+					<input type="text" name="first_name" placeholder="John" /><br />
+
+					Last Name:<br />
+					<input type="text" name="last_name" placeholder="Doe" /><br />
+
+					Gender:<br />
+					<input type="radio" name="gender_m" value="Male" checked="checked" /> Male<br />
+					<input type="radio" name="gender_f" value="Female" /> Female<br />
+
+					Which of these do you own?<br />
+					<input type="checkbox" name="console" value="playstation" /> Sony PlayStation 3<br />
+					<input type="checkbox" name="console" value="xbox360" /> Microsoft Xbox 360<br />
+					<input type="checkbox" name="console" value="wii" /> Nintendo Wii<br />
+					<input type="checkbox" name="console" value="none" /> None<br />
+
+					Which of these three gaming console companies do you prefer?<br />
+					<select name="console_companies">
+						<option value="sony">Sony</option>
+						<option value="microsoft">Microsoft</option>
+						<option value="nintendo">Nintendo</option>
+						<option value="none">None</option>
+					</select><br />
+
+					Comments:<br />
+					<textarea name="comments" rows="12" cols="50" placeholder="Your comments here."></textarea><br />
+
+					<input type="submit" value="Submit" />
+				</form>
+		</section>
+
+		<footer>
+			<small>Copyright &copy; 2013. All Rights Reserved.</small>
+		</footer>
+	</body>
+</html>

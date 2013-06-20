@@ -1,0 +1,10 @@
+HTML5
+
+Developed by:					
+W3C, WHATWG	
+
+Type of format:	
+Markup language		
+
+Standard(s):
+WHATWG Editor's draft, W3C Editor's draft

@@ -1,0 +1,10 @@
+Form element attributes:
+
+	action="http://en.wikipedia.org/w/index.php"
+
+	method="get"
+
+
+Text box attributes:
+
+	name="search"
