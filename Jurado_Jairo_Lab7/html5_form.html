@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Gamer Registration</title>
+	</head>
+
+	<body>
+		<header>
+			<h1>Gamer Registration</h1>
+		</header>
+
+		<section>
+			<h2>Personal Information</h2>
+
+				<form action="mailto:JJairo92@fullsail.edu">
+
+					First Name:<br />
+					<input type="text" name="first_name" placeholder="John" autofocus="autofocus" required="required" /><br />
+
+					Last Name:<br />
+					<input type="text" name="last_name" placeholder="Doe" required="required" /><br />
+
+					Gender:<br />
+					<input type="radio" name="gender_m" value="Male" checked="checked" /> Male<br />
+					<input type="radio" name="gender_f" value="Female" /> Female<br />
+
+					Date of Birth:<br />
+					<input type="date" name="dob" /><br />
+
+			<h2>Contact Information</h2>
+
+					Email Address:<br />
+					<input type="email" name="email_address" placeholder="johndoe@gmail.com" required="required" /><br />
+
+					Phone Number:<br />
+					<input type="tel" name="phone" placeholder="666-666-6666" /><br />
+
+					What's the best time for us to contact you? (Eastern Time)<br />
+					<input type="time" name="time" /><br />
+
+			<h2>Questions</h2>
+
+					Favorite Website?<br />
+					<input type="url" name="sites" placeholder="www.youtube.com" /><br />
+
+					How many video games do you buy in a year?<br />
+					<input type="number" name="age" min="1" max="1000" /><br />
+
+					Which of these consoles do you own?<br />
+					<input type="checkbox" name="console" value="playstation" /> Sony PlayStation 3<br />
+					<input type="checkbox" name="console" value="xbox360" /> Microsoft Xbox 360<br />
+					<input type="checkbox" name="console" value="wii" /> Nintendo Wii<br />
+					<input type="checkbox" name="console" value="none" /> None<br />
+
+					Which of the three major gaming console companies do you prefer?<br />
+					<input type="text" name="game_companies" list="game_companies">
+						<datalist id="game_companies">
+							<option label="Sony" value="Sony">
+							<option label="Microsoft" value="Microsoft">
+							<option label="Nintendo" value="Nintendo">
+							<option label="None" value="None">
+						</datalist><br />
+
+					What's your preferred color?<br />
+					<input type="color" name="color" /><br />
+
+					What's your favorite number from 1 to 3?<br />
+					<input type="range" name="number_range" min="0" max="3" value="1" /><br />
+					
+
+					Comments:<br />
+					<textarea name="comments" rows="12" cols="50" placeholder="Your comments here."></textarea><br />
+
+					Congratulations! You've finished!<br />
+					<progress value="100" max="100">100%</progress><br />
+
+					<input type="submit" value="Submit" />
+				</form>
+
+				<form>
+					<input type="search" name="search" placeholder="Search" /><br />
+				</form>
+		</section>
+
+		<footer>
+			<small>Copyright &copy; 2013. All Rights Reserved.</small>
+		</footer>
+	</body>
+</html>

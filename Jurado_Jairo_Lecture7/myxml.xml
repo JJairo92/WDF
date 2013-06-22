@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ps4>
+
+	<game>
+		<title>Watch Dogs</title>
+		<release_date>Q4 2013</release_date>
+		<developer>Ubisoft Montreal</developer>
+	</game>
+
+	<game>
+		<title>Assassin's Creed IV: Black Flag</title>
+		<release_date>Q4 2013</release_date>
+		<developer>Ubisoft Montreal</developer>
+	</game>
+</ps4>

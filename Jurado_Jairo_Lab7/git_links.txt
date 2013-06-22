@@ -1,0 +1,17 @@
+Master page GitHub linkhttps://github.com/JJairo92/WDFgh-pages GitHub linkhttps://github.com/JJairo92/WDF/tree/gh-pages
+
+
+lab7.doc GitHub Link
+http://jjairo92.github.io/WDF/Jurado_Jairo_Lab7/lab7.doc
+
+
+html5_form.html GitHub Link
+http://jjairo92.github.io/WDF/Jurado_Jairo_Lab7/html5_form.html
+
+
+rss_link.html GitHub Link
+http://jjairo92.github.io/WDF/Jurado_Jairo_Lab7/rss_link.html
+
+
+reviews.xml.html GitHub Link
+http://jjairo92.github.io/WDF/Jurado_Jairo_Lab7/reviews.xml
