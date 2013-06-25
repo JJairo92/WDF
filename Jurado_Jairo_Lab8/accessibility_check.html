@@ -2,11 +2,11 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>HTML5 Markup Review</title>
+		<title>Accessibility Check</title>
 	</head>
 	<body>
 		<header>
-			<h1>HTML5 Markup Review</h1>
+			<h1>Accessibility Check</h1>
 		</header>
 		
 		<nav>
@@ -27,7 +27,7 @@
 			<img src="images/alex.jpg" alt="Image of Àlex Catalan&quot;s Site" />
 			
 			<p>The website can be considered a résumé of Àlex Catalan, he's a web designer and developer. The website was very well made. There were a few untitled sections but they were navigations. However, they were not in nav tags, they were article tags. I think it's fine to use the article tags here though because they are links to other websites Àlex Catalan has made. The other navigations were links to people who are important to him, and other links to things he likes.</p>
-		</div>
+		</div> <!-- Closes "alex" div -->
 		
 		<div id="graph">		
 		<h2>Graph Concepts</h2>
@@ -38,7 +38,7 @@
 			<img src="images/graph.jpg" alt="Image of Graph Concepts&quot; Site" />
 			
 			<p>The website is for a company called <em>Graph Concepts</em>. They focus on web design, web development, visual identity design, graphic design, SEO, and online marketing. The website is pleasing to the eye, everything looks fine. However, the website had 3 errors after running the W3C Validation Service. It was one simple space mistake, and two bad values for attribute rel on element a. Fixing this would include putting the space needed, and getting rid of those values. As far as HTML5 goes, everything seems well-structured, except for using too many divs, there are a few navigational instances; nav would be better instead of div.</p>
-		</div>
+		</div> <!-- Closes "graph" div -->
 		
 		<div id="twelve">		
 		<h2>The Twelve</h2>
@@ -49,7 +49,7 @@
 			<img src="images/twelve.jpg" alt="Image of The Twelve&quot;s Site" />
 			
 			<p>The website is for a studio called <em>The Twelve</em>, they focus on art direction, video, graphic design, web, motion graphics, and 3D. Their website is beautiful but after running their code in the W3C Validation Service, it had 192 errors. Most of them were stray end tags, but there were also no alt attributes on images. The way to fix this is simple, to add end tags and the alt attribute on images. As far as the outline, it is well made, the untitled sections are navigations. However, the entire website uses scripts, there is no markup &lpar;I haven't learned about scripts yet&rpar;.</p>
-		</div>
+		</div> <!-- Closes "twelve" div" -->
 		
 		<div id="rooney">		
 		<h2>Wayne Rooney</h2>
@@ -60,9 +60,10 @@
 			<img src="images/rooney.jpg" alt="Image of Official Wayne Rooney&quot;s Site" />
 			
 			<p>The website is of football &lpar;soccer&rpar; player Wayne Rooney. It has a gallery of photos, news, stats, etc. The website had only 2 errors, they were simple mistakes, the developer did not use an entity ampersand for a link, and there was a descendant of a header element, which is not allowed. The outline had two untitled sections, but it's ok since they are for the navigation options. Besides that, the other titles are the news titles, I don't know if that's correct but I think it isn't. I think it's better to have a title that says &quot;News&quot; and then the news titles.
+		</div> <!-- Closes "rooney" div" -->
+
 		<footer>
-			<p>Thank you for visiting my website. &copy; 2013.</p>
+			<small>Copyright &copy; 2013. All Rights Reserved.</small>
 		</footer>
-		</div>
 	</body>
 </html>
