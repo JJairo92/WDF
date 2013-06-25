@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Quick Game Survey</title>
+	</head>
+
+	<body>
+		<header>
+			<h1>Quick Game Survey</h1>
+		</header>
+
+		<section>
+			<h2>Personal Information</h2>
+
+				<form action="mailto:JJairo92@fullsail.edu">
+					<fieldset>
+						First Name:<br />
+						<input type="text" name="first_name" title="Type your First Name here" placeholder="John" /><br />
+
+						Last Name:<br />
+						<input type="text" name="last_name" title="Type your Last Name here" placeholder="Doe" /><br />
+					</fieldset>
+
+					<fieldset>
+						<legend>Gender:</legend>
+						<input type="radio" name="gender_m" value="Male" id="male" />
+						<label for="male">Male</label><br />
+
+						<input type="radio" name="gender_f" value="Female" id="female" />
+						<label for="female">Female</label><br />
+					</fieldset>
+
+					<fieldset>
+						<legend>Which of these do you own?</legend>
+							<input type="checkbox" name="console" value="playstation" id="playstation" />
+							<label for="playstation">Sony PlayStation 3</label><br />
+							<input type="checkbox" name="console" value="xbox360" id="xbox360" />
+							<label for="xbox360">Microsoft Xbox 360</label><br />
+							<input type="checkbox" name="console" value="wii" id="wii" />
+							<label for="wii">Nintendo Wii</label><br />
+							<input type="checkbox" name="console" value="none" id="none" />
+							<label for="none">None</label><br />
+					</fieldset>
+
+					<fieldset>
+						<legend>Which of these three gaming console companies do you prefer?</legend>
+						<select name="console_companies" title="Select the gaming console you prefer">
+							<option value="sony">Sony</option>
+							<option value="microsoft">Microsoft</option>
+							<option value="nintendo">Nintendo</option>
+							<option value="none">None</option>
+						</select><br />
+					</fieldset>
+
+					<fieldset>
+						Comments:<br />
+						<textarea name="comments" rows="12" cols="50" title="Type your comments here" placeholder="Your comments here."></textarea><br />
+					</fieldset>
+
+					<fieldset>
+						<input type="submit" value="Submit" title="Click here to submit your information" />
+					</fieldset>
+				</form>
+		</section>
+
+		<footer>
+			<small>Copyright &copy; 2013. All Rights Reserved.</small>
+		</footer>
+	</body>
+</html>
